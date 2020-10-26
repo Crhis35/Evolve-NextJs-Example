@@ -1,0 +1,39 @@
+{
+  "name": "client2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "@types/aos": "3.0.3",
+    "@zeit/next-css": "^1.0.1",
+    "@zeit/next-sass": "^1.0.1",
+    "@zeit/next-typescript": "^1.1.1",
+    "aos": "^2.3.4",
+    "apollo-cache-inmemory": "^1.6.6",
+    "apollo-client": "^2.6.10",
+    "apollo-link-http": "^1.5.17",
+    "babel-plugin-inline-react-svg": "^1.1.1",
+    "babel-plugin-lodash": "^3.3.4",
+    "dotenv": "^8.2.0",
+    "graphql": "^15.3.0",
+    "graphql-tag": "^2.11.0",
+    "isomorphic-unfetch": "^3.1.0",
+    "next": "9.5.5",
+    "next-with-apollo": "^5.1.0",
+    "node-sass": "^4.14.1",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-typewriter-hook": "^1.0.1",
+    "styled-components": "^5.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.52",
+    "babel-plugin-styled-components": "^1.11.1",
+    "typescript": "^4.0.3"
+  }
+}
